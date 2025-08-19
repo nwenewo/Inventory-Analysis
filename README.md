@@ -1,7 +1,3 @@
-Perfect 👍 Thanks for sharing your **Inventory Analysis Tableau Dashboard** screenshot. Here’s a polished **README.md draft** for your GitHub repository:
-
----
-
 # 📦 Inventory Analysis – Tableau Dashboard
 
 ![Inventory-Analysis](Inventory.png)
@@ -57,6 +53,3 @@ This project uses **Tableau** to perform an **Inventory Analysis** across multip
 * **Jewelry** has low turnover and negative growth, indicating possible overstocking or low demand.
 * **Class B items** should be increased in stock to balance inventory distribution.
 * Certain countries show stronger demand and can be targeted for optimized supply.
-
-
-Would you also like me to **add a professional “Problem–Solution–Impact” section** (good for recruiters & portfolio) so your README reads more like a case study?
